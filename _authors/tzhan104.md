@@ -1,6 +1,7 @@
 ---
 layout: profile
-name: Tiya
-jhed: tzhan104
+name: Tiya Z
+jhed: tzhan104 
+avatar: '/profiles/tzhan104.jpg'
 email: tzhan104@jh.edu
 ---
